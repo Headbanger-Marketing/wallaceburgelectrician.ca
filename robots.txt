@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wallaceburgelectrician.ca/sitemap-index.xml
